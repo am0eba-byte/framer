@@ -10,7 +10,7 @@ header {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 62vh;
+  height: 22vh;
   border-bottom: 1px solid rgba(0,0,0,.1);
 }
 header h1 {
